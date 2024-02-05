@@ -1,0 +1,9 @@
+
+train: ../datasets/cattle_belly_head/images/train
+val: ../datasets/cattle_belly_head/images/valid
+test: ../datasets/cattle_belly_head/images/test
+
+nc: 2
+names:
+  0: belly
+  1: head
